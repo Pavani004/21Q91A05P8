@@ -43,7 +43,7 @@ This is user post data fetched form api to style this I have used CSS
 
 
 ![image](https://github.com/user-attachments/assets/3a6ff780-abac-4a09-83b0-9d744b1dfb89)
-To make more difference as in e-commerce the user data is also crucial so new user data is fetched everytime from api whnerever Refresh user button is pressed
+To make more difference as in e-commerce the user data is also crucial so new user data is fetched everytime from api whenever Refresh user button is pressed
 
 ![image](https://github.com/user-attachments/assets/1749fa01-fc18-4fac-b30b-cec3ab597d7c)
 You can see the change in user profile
